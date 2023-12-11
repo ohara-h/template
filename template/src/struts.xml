@@ -46,7 +46,7 @@
 		<!-- BuyItemAction -->
 		<action name="BuyItemAction" class="com.diworksdev.template.action.BuyItemAction"
 		method="execute">
-			<result name="success">buyIrwmConfirm.jsp</result>
+			<result name="success">buyItemConfirm.jsp</result>
 		</action>
 
 		<!-- BuyItemConfirmAction -->
