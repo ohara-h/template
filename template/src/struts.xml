@@ -50,7 +50,7 @@
 		</action>
 
 		<!-- BuyItemConfirmAction -->
-		<action name="BuyItemConfirmAction" class="com.diworkdev.template.action.BuyItemConfirmAction"
+		<action name="BuyItemConfirmAction" class="com.diworksdev.template.action.BuyItemConfirmAction"
 		method="execute">
 			<result name="success">buyItemComplete.jsp</result>
 		</action>
